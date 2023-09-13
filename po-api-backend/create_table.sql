@@ -1,4 +1,3 @@
--- Create the "po_numbers" table with additional fields
 CREATE TABLE po_numbers (
   id SERIAL PRIMARY KEY,
   po_number VARCHAR(255) NOT NULL,

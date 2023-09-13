@@ -22,7 +22,7 @@ The backend development server should now be running on http://localhost:8080/ap
 #### 3. createdb testDB
 
 #### 4. npm run migrate
-#### 5. node app.js or npm start
+#### 5. node app.js
 
 
 ## Frontend Setup

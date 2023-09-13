@@ -1,4 +1,4 @@
-# Backend Project README
+# Backend  README
 
 ## Overview
 
@@ -13,7 +13,7 @@ This is a simple backend project that demonstrates how to set up a Node.js appli
 
 1. Clone the repository:
 
-cd your-backend-project
+cd po-api-backend
 npm install
 
 2. Create the PostgreSQL database
